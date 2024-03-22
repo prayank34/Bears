@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+p {
+    font-size: 20px;
+    color: rgb(255, 145, 0);
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(241, 137, 0);
+    text-align: center;
+}
+
+ol,
+ul {
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.heading {
+    text-align: center;
+    color: rgb(248, 255, 146);
+    font-family: "Brush Script MT";
+    font-size: 25px;
+}
+
+.form {
+    color: antiquewhite;
+    text-align: center;
+}
+
+.reset , .submit {
+    color: rgb(255, 255, 255);
+    text-align: center;
+   
+}
